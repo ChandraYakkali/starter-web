@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Java
+	J2EE
+	TIBCO
+	Angular
